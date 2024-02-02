@@ -1,3 +1,8 @@
+#### The documentation is not up to date.
+
+> To add a new redirect, you need to add it on `data/redirect.json`
+
+
 <div align="center">
   <img src="https://cdn.abranhe.com/projects/gitdotio/logo.svg">
   <br>
@@ -25,7 +30,7 @@ So [this project](https://github.com/gitdotio/gitdotio.github.io) will help you 
 
 ``` html
 ---
-permalink: /your-beautiful-link   <!-- The link where you want to redirect -->
+permalink: /your-beautiful-link
 destination: http://your-beautiful-site.com
 ---
 ```
@@ -67,18 +72,8 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 |[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://github.com/abranhe)|
 | :-: |
-| [Carlos Abraham](https://github.com/abranhe) |
+| [Abraham Hernandez](https://github.com/abranhe) |
 
-
-# Contributors
-
-| Name                   | Github                                              |
-| :---------------------:| :-------------------------------------------------: | 
-| Carlos Abraham         | [@abranhe](https://github.com/abranhe)              |
-| Carlos                 | [@carlittoo7](https://github.com/carlittoo7)        |
-| Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)          |
-| Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)  |
-| Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)    |
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)
